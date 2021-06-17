@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("becky-g-u2.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+#color-ovarlay{
+    margin:0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: aqua;
+}
+#text-bg{
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    font-family: verdana;
+}
